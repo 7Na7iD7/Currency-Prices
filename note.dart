@@ -9,8 +9,7 @@ import 'package:flutter_localizations/flutter_localizations.dart'; // چرا؟ �
 import 'package:http/http.dart' as http; // چرا؟ برای گرفتن داده از API
 import 'dart:convert'
     as convert; // چرا؟ برای اینکه داده JSON رو به چیزی که بشه باهاش کار کرد تبدیل کنیم
-import 'dart:developer'
-    as developer; // چرا؟ برای اینکه ببینیم کجامون مشکل داره، یه جور دیباگ
+import 'dart:developer'as developer;
 
 // نقطه شروع برنامه
 void main() {
